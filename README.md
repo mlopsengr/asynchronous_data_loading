@@ -1,5 +1,5 @@
-# LOGIC BREAKDOWN
-This explains the processes performed within the data_loading.py file withn the package folder.
+# Logic Breakdown
+This explains the processes performed within the data_loading.py file withn the package folder in a high level. The code can be adapted for specific use cases.
 
 ## Cloud Database Simulation
 - `CLOUD_DB_ENDPOINTS`: A list of simulated cloud database endpoints.
