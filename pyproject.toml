@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "asynchronous-data-loading"
+version = "0.1.0"
+description = ""
+authors = ["Tobi John <tobioluwafemi58@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiohttp = "^3.9.5"
+rich = "^13.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
