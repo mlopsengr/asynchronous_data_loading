@@ -2,10 +2,10 @@ import asyncio
 import aiohttp
 import random
 from datetime import datetime 
-from logging.rich import RichHandler
+from rich.logging import RichHandler
 import logging
 
-logging.basicConfig(level='INFO', format="%(message)s", datefmt="[%X]", handlers=RichHandler()]
+logging.basicConfig(level='INFO', format="%(message)s", datefmt="[%X]", handlers=RichHandler())
 logs = logging.getLogger(__name__)
 
 
