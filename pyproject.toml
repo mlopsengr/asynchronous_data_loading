@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "asynchronous-data-loading"
 version = "0.1.0"
-description = ""
+description = "Demonstration of the use of async functions for managing tasks asynchronously in a data handling pipeline"
 authors = ["Tobi John <tobijohn@mlopsengineer.com>"]
 readme = "README.md"
 
